@@ -50,7 +50,7 @@ El método más fácil para compartir una partitura publicada en MuseScore.com e
 
 Si queremos incrustar la partitura en una web o un blog debemos utilizar el código generado por el propio servicio de MuseScore.com en el editor HTML y de esta manera tan simple nuestra partitura estará visible y reproducible en cualquier web.
 
-<iframe width="100%" height="394" src="http://musescore.com/classicman/scores/56997/embed" frameborder="0"></iframe><span><a href="https://musescore.com/classicman/scores/56997">Sonate No. 17, “Tempest” 1st Movement</a> by <a href="https://musescore.com/classicman">ClassicMan</a></span> 
+    <iframe width="100%" height="394" src="http://musescore.com/classicman/scores/56997/embed" frameborder="0"></iframe><span><a href="https://musescore.com/classicman/scores/56997">Sonate No. 17, “Tempest” 1st Movement</a> by <a href="https://musescore.com/classicman">ClassicMan</a></span> 
     
 ## Video partituras, nada mejor que un sonido real. 
 
